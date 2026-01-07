@@ -36,7 +36,6 @@ Cryo-ET generates nanometer-resolution 3D reconstructions of biological specimen
 
 - Python ≥ 3.8
 - RELION (for subtomogram averaging)
-- crYOLO (for particle picking)
 - IMOD or AreTomo (for alignment)
 
 ### Setup
@@ -117,10 +116,6 @@ This tool has been used for cryo-ET data collection and structure determination 
 **Abdullah Al Bashit, PhD**  
 Developed as a Visiting Researcher at Harvard Medical School
 
-- Email: [a.bashit@northeastern.edu](mailto:a.bashit@northeastern.edu)
-- Website: [abdullah-al-bashit.github.io](https://abdullah-al-bashit.github.io)
-- Google Scholar: [Profile](https://scholar.google.com/citations?user=w3KyQbkAAAAJ)
-
 ## License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) for details.
@@ -129,14 +124,3 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 - Harvard Medical School Cryo-ET Facility
 - Boston-area structural biology community
-
-## Citation
-
-If you use this software in your research, please acknowledge:
-
-```
-OTF-Tomography: On-the-Fly Cryo-ET Automation
-Abdullah Al Bashit
-Harvard Medical School, 2024
-https://github.com/abdullah-al-bashit/OTF_tomography
-```
